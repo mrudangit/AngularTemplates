@@ -20,7 +20,7 @@
                         "tsConfig": "tsconfig.app.json",
                         "aot": true,
                         "assets": [
-                            "src/favicon.ico",
+                            "src/angularIcon.ico",
                             "src/upload.php",
                             "src/assets"
                         ],
@@ -117,7 +117,7 @@
                             "node_modules/quill/dist/quill.js"
                         ],
                         "assets": [
-                            "src/favicon.ico",
+                            "src/angularIcon.ico",
                             "src/upload.php",
                             "src/assets"
                         ]
